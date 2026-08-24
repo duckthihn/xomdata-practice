@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**23** problems solved on [Xom Data](https://xomdata.com/practice).
+**33** problems solved on [Xom Data](https://xomdata.com/practice).
 
-| Topic | Easy | Medium | Hard | Nightmare | Total |
-|---|---|---|---|---|---|
-| SQL | 16 | 7 | 0 | 0 | 23 |
+| Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
+|---|:---:|:---:|:---:|:---:|:---:|
+| SQL | 23 | 10 | 0 | 0 | 33 |
 
 **Recently solved**
 
-- [medium-join-001](https://xomdata.com/practice/medium-join-001) · Medium · 2026-08-13
-- [medium-groupby-097](https://xomdata.com/practice/medium-groupby-097) · Medium · 2026-08-13
-- [medium-join-141](https://xomdata.com/practice/medium-join-141) · Medium · 2026-08-12
-- [easy-sum-003](https://xomdata.com/practice/easy-sum-003) · Easy · 2026-08-12
-- [easy-sum-001](https://xomdata.com/practice/easy-sum-001) · Easy · 2026-08-12
-- [easy-select-005](https://xomdata.com/practice/easy-select-005) · Easy · 2026-08-12
-- [easy-select-002](https://xomdata.com/practice/easy-select-002) · Easy · 2026-08-12
-- [medium-groupby-027](https://xomdata.com/practice/medium-groupby-027) · Medium · 2026-08-12
-- [easy-where-027](https://xomdata.com/practice/easy-where-027) · Easy · 2026-08-12
-- [easy-where-012](https://xomdata.com/practice/easy-where-012) · Easy · 2026-08-12
+- [medium-subquery-110](https://xomdata.com/practice/medium-subquery-110) · Medium · 2026-08-24
+- [easy-where-002](https://xomdata.com/practice/easy-where-002) · Easy · 2026-08-24
+- [easy-distinct-007](https://xomdata.com/practice/easy-distinct-007) · Easy · 2026-08-21
+- [easy-count-006](https://xomdata.com/practice/easy-count-006) · Easy · 2026-08-21
+- [easy-distinct-006](https://xomdata.com/practice/easy-distinct-006) · Easy · 2026-08-21
+- [easy-where-020](https://xomdata.com/practice/easy-where-020) · Easy · 2026-08-19
+- [easy-where-001](https://xomdata.com/practice/easy-where-001) · Easy · 2026-08-19
+- [medium-join-186](https://xomdata.com/practice/medium-join-186) · Medium · 2026-08-14
+- [easy-count-001](https://xomdata.com/practice/easy-count-001) · Easy · 2026-08-14
+- [medium-coalesce-040](https://xomdata.com/practice/medium-coalesce-040) · Medium · 2026-08-13
 
-_Synced 23 solutions · last update 2026-08-13_
+_Synced 33 solutions · last update 2026-08-24_
 
 <!-- xomdata:stats:end -->
 
