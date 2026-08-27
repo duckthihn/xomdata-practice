@@ -31,5 +31,11 @@
   "practice/sql/easy/easy-count-006/solution.sql": "b14d066fb750219497d78bf6fd7555bd613a737ec531d07eb6b775860046fb6d",
   "practice/sql/easy/easy-distinct-007/solution.sql": "1046a4fc027ef94a079ed2bbbb9faf635ad8ada3816b440eb2589a2d4db16def",
   "practice/sql/easy/easy-where-002/solution.sql": "3a25e1bb2fe4269e1b1fc8e71f4abeb704b31254c519970804591c50c2a16dc3",
-  "practice/sql/medium/medium-subquery-110/solution.sql": "81b5763500d64180aeacc832f45a47a849d48bfacc1b3feec0cc975220db31dc"
+  "practice/sql/medium/medium-subquery-110/solution.sql": "81b5763500d64180aeacc832f45a47a849d48bfacc1b3feec0cc975220db31dc",
+  "practice/sql/medium/medium-join-029/solution.sql": "60a367306e1a40517f3b6a5d26ca5e3aeea3c0e8cc90f368b0ea22f9a45d5c36",
+  "practice/sql/easy/easy-andor-001/solution.sql": "b8b14ae37fd0fe07bfe19196cbde22dfc3fe13bd3e7a69301e93f76a7a3fa565",
+  "practice/sql/medium/medium-datefunction-045/solution.sql": "952dd25fb72d342fd81ffb1f1b925c5dd03bed467daa30722d1b407174b2e351",
+  "practice/sql/medium/medium-case-160/solution.sql": "e4248561db7f8112ca38c50e12424a909745dd0e50f3f62c33b423769fcca871",
+  "practice/python/easy/py-join-parts/solution.py": "8b54905d5628a36a0782ac641697ec543bd840a497582b3a45780ffeca3fd59a",
+  "practice/sql/medium/medium-ntile-001/solution.sql": "1f5baf385ca8a68e2081e506839f3b101a29a48f8a38b93e902ed91ec8652387"
 }
