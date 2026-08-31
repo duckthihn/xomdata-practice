@@ -37,5 +37,12 @@
   "practice/sql/medium/medium-datefunction-045/solution.sql": "952dd25fb72d342fd81ffb1f1b925c5dd03bed467daa30722d1b407174b2e351",
   "practice/sql/medium/medium-case-160/solution.sql": "e4248561db7f8112ca38c50e12424a909745dd0e50f3f62c33b423769fcca871",
   "practice/python/easy/py-join-parts/solution.py": "8b54905d5628a36a0782ac641697ec543bd840a497582b3a45780ffeca3fd59a",
-  "practice/sql/medium/medium-ntile-001/solution.sql": "1f5baf385ca8a68e2081e506839f3b101a29a48f8a38b93e902ed91ec8652387"
+  "practice/sql/medium/medium-ntile-001/solution.sql": "1f5baf385ca8a68e2081e506839f3b101a29a48f8a38b93e902ed91ec8652387",
+  "practice/sql/medium/medium-monetary-001/solution.sql": "9ef6efd5b9976d014cfc3119f248c78b242c272e2088f9e87f059318bd309beb",
+  "practice/sql/hard/hard-rfm-002/solution.sql": "4127e5f4d4032b32a7e6f2c403d5ec761748a95e9d26c84f5f516dfd2173edd7",
+  "practice/python/easy/py-average/solution.py": "af0d57354e82636cb5507287c829d639b211fc42212e0bc11771448d7e471237",
+  "practice/python/easy/py-best-branch/solution.py": "b7603faea6d2bfaa0400dd9efd97dbba0134b24ec9bc508deed26ae6c219699f",
+  "practice/sql/hard/hard-monetary-001/solution.sql": "f11582bf8da6a95a38509606ee4f1cb4ccac7f7e203a9b39aeaa1c3940c2b128",
+  "practice/sql/medium/medium-leftjoin-031/solution.sql": "60b5c49ab41bd4df1a26d006c533d0470a7970129592aa8ba85ffdcdedd97495",
+  "practice/sql/hard/hard-topn-001/solution.sql": "82185a4430e25f2053c1e6e161a6fb49e0192f9aeb0bf83401163d185a66fec8"
 }

@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**39** problems solved on [Xom Data](https://xomdata.com/practice).
+**46** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 1 | 0 | 0 | 0 | 1 |
-| SQL | 24 | 14 | 0 | 0 | 38 |
+| Python | 3 | 0 | 0 | 0 | 3 |
+| SQL | 24 | 16 | 3 | 0 | 43 |
 
 **Recently solved**
 
+- [hard-topn-001](https://xomdata.com/practice/hard-topn-001) · Hard · 2026-08-31
+- [medium-leftjoin-031](https://xomdata.com/practice/medium-leftjoin-031) · Medium · 2026-08-31
+- [hard-monetary-001](https://xomdata.com/practice/hard-monetary-001) · Hard · 2026-08-28
+- [py-best-branch](https://xomdata.com/practice/py-best-branch) · Easy · 2026-08-28
+- [py-average](https://xomdata.com/practice/py-average) · Easy · 2026-08-28
+- [hard-rfm-002](https://xomdata.com/practice/hard-rfm-002) · Hard · 2026-08-28
+- [medium-monetary-001](https://xomdata.com/practice/medium-monetary-001) · Medium · 2026-08-28
 - [medium-ntile-001](https://xomdata.com/practice/medium-ntile-001) · Medium · 2026-08-27
 - [py-join-parts](https://xomdata.com/practice/py-join-parts) · Easy · 2026-08-27
 - [medium-case-160](https://xomdata.com/practice/medium-case-160) · Medium · 2026-08-25
-- [medium-datefunction-045](https://xomdata.com/practice/medium-datefunction-045) · Medium · 2026-08-25
-- [easy-andor-001](https://xomdata.com/practice/easy-andor-001) · Easy · 2026-08-25
-- [medium-join-029](https://xomdata.com/practice/medium-join-029) · Medium · 2026-08-24
-- [medium-subquery-110](https://xomdata.com/practice/medium-subquery-110) · Medium · 2026-08-24
-- [easy-where-002](https://xomdata.com/practice/easy-where-002) · Easy · 2026-08-24
-- [easy-distinct-007](https://xomdata.com/practice/easy-distinct-007) · Easy · 2026-08-21
-- [easy-count-006](https://xomdata.com/practice/easy-count-006) · Easy · 2026-08-21
 
-_Synced 39 solutions · last update 2026-08-27_
+_Synced 46 solutions · last update 2026-08-31_
 
 <!-- xomdata:stats:end -->
 
